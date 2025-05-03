@@ -18,7 +18,7 @@
 
 > Quality-of-life features for Aparat.com!
 
-## 🧩 Other Stuff
+## 💻 Other Stuff
 ### 🔌 [Disconnect Timer](https://github.com/alirezaabdi01/Disconnect-Timer)
 > A program to set timer for enabling or disabling a certain network adapter and more!
 
