@@ -16,7 +16,12 @@
 - 🦊 [Firefox](https://github.com/alirezaabdi01/Easy-Aparat)  Coming Soon..
 - 🧭 [Edge](https://github.com/alirezaabdi01/Easy-Aparat)  Coming Soon..
 
-> Quality-of-life features for Aparat.com
+> Quality-of-life features for Aparat.com!
+
+> ## 🧩 Other Stuff
+### 🎥 [Disconnect Timer](https://github.com/alirezaabdi01/Disconnect-Timer)
+
+> A program to set timer for enabling or disabling a certain network adapter and more!
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezaabdi01&show_icons=true&theme=dark)
