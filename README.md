@@ -6,7 +6,7 @@
 - 📦 [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/your-extension-id/)
 - 🧭 [Edge Add-on](https://microsoftedge.microsoft.com/addons/detail/your-extension-id)
 
-> A short description of what this extension does.
+> Right To Left Support For Twitch.tv plus extra features!
 
 ---
 
@@ -19,7 +19,6 @@
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-... *(Add more badges from [shields.io](https://shields.io/))*
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezaabdi01&show_icons=true&theme=dark)
