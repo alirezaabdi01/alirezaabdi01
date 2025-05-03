@@ -7,14 +7,14 @@
 ## 🧩 My Browser Extensions
 
 ### 🟣 [Twitch RTL](https://github.com/alirezaabdi01/Twitch-RTL)
-- 🦊 [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/twitch-rtl/)
+- 🦊 [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/twitch-rtl/) Coming Soon..
 - 🧭 [Edge Add-on](https://microsoftedge.microsoft.com/addons/detail/twitch-rtl/jpmknenijonkbmkiodefkofihahalmna)
 
 > Right To Left Support For Twitch.tv plus Quality-of-life features!
 
-### 🎥 [Easy Aparat](https://github.com/alirezaabdi01/)
-- 🦊 [Firefox]()
-- 🧭 [Edge]()
+### 🎥 [Easy Aparat](https://github.com/alirezaabdi01/Easy-Aparat)
+- 🦊 [Firefox](https://github.com/alirezaabdi01/Easy-Aparat)  Coming Soon..
+- 🧭 [Edge](https://github.com/alirezaabdi01/Easy-Aparat)  Coming Soon..
 
 > Quality-of-life features for Aparat.com
 
