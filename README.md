@@ -17,7 +17,7 @@
 - 🧭 [Edge](https://github.com/alirezaabdi01)  Coming Soon..
 - 🦊 [Firefox](https://github.com/alirezaabdi01)  Coming Soon..
 - 🟡 [Chrome](https://github.com/alirezaabdi01) Coming Soon..
-- 
+
 > Quality-of-life features for Aparat.com!
 
 ## 💻 Other Stuff
