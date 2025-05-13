@@ -7,6 +7,7 @@
 ## 🧩 My Browser Extensions
 
 ### 🟣 [Twitch RTL](https://github.com/alirezaabdi01/Twitch-RTL)
+- 🛜 [Download](https://github.com/alirezaabdi01/Twitch-RTL/releases/download/Release/Twitch.RTL.zip)
 - 🧭 [Edge](https://microsoftedge.microsoft.com/addons/detail/twitch-rtl/jpmknenijonkbmkiodefkofihahalmna) Out Now!
 - 🦊 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch-rtl/) Coming Soon..
 - 🟡 [Chrome](https://github.com/alirezaabdi01) Coming Soon..
