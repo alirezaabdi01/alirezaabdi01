@@ -25,7 +25,7 @@
 ### 🔌 [Disconnect Timer](https://github.com/alirezaabdi01/Disconnect-Timer)
 > A program to set timer for enabling or disabling a certain network adapter and more!
 
-### 🔌 [Schedule 1 Best Mix Finder](https://github.com/alirezaabdi01/Schedule-1-best-mix-finder)
+### 🚬 [Schedule 1 Best Mix Finder](https://github.com/alirezaabdi01/Schedule-1-best-mix-finder)
 > Find The Most Profitable Mix For The Schedule 1 Game!
 
 
