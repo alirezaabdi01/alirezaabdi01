@@ -8,16 +8,16 @@
 
 ### 🟣 [Twitch RTL](https://github.com/alirezaabdi01/Twitch-RTL)
 - 🧭 [Edge](https://microsoftedge.microsoft.com/addons/detail/twitch-rtl/jpmknenijonkbmkiodefkofihahalmna) Out Now!
-- 🦊 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch-rtl/) Out Now!
-- 🦊 [Firefox Android](https://addons.mozilla.org/en-US/android/addon/twitch-rtl-for-android/) Out Now!
-- 🟡 [Chrome](https://github.com/alirezaabdi01) Coming Soon..
+- [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch-rtl/) Out Now!
+- [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) [Firefox Android](https://addons.mozilla.org/en-US/android/addon/twitch-rtl-for-android/) Out Now!
+- [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) [Chrome](https://github.com/alirezaabdi01) Coming Soon..
 
 > Right To Left Support For Twitch.tv plus Quality-of-life features!
 
 ### 🎥 [Easy Aparat](https://github.com/alirezaabdi01/Easy-Aparat)
 - 🧭 [Edge](https://github.com/alirezaabdi01)  Coming Soon..
-- 🦊 [Firefox](https://github.com/alirezaabdi01)  Coming Soon..
-- 🟡 [Chrome](https://github.com/alirezaabdi01) Coming Soon..
+- [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) [Firefox](https://github.com/alirezaabdi01)  Coming Soon..
+- [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) [Chrome](https://github.com/alirezaabdi01) Coming Soon..
 
 > Quality-of-life features for Aparat.com!
 
