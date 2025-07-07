@@ -15,7 +15,8 @@
 - [![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#) [Edge](https://microsoftedge.microsoft.com/addons/detail/twitch-rtl/jpmknenijonkbmkiodefkofihahalmna) Out Now!
 - [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch-rtl/) Out Now!
 - [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) [Firefox Android](https://addons.mozilla.org/en-US/android/addon/twitch-rtl-for-android/) Out Now!
-- [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) [Chrome](https://github.com/alirezaabdi01) Coming Soon..
+- [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://chromewebstore.google.com/detail/twitch-rtl/nfigacefakangekkfofiojbamefniokc)
+[Chrome]([https://github.com/alirezaabdi01](https://chromewebstore.google.com/detail/twitch-rtl/nfigacefakangekkfofiojbamefniokc)) 
 
 > Right To Left Support For Twitch.tv plus Quality-of-life features!
 
